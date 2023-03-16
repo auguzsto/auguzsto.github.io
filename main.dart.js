@@ -41392,7 +41392,7 @@ a.X(t.w).toString
 s=A.li(12)
 r=A.W4(B.it)
 q=t.p
-return A.aox(A.e0(p,A.h0(A.a([A.nq(A.e0(p,A.h0(A.a([A.eO("Presen\xe7a confirmada.",p,p,p,A.wB(B.LL),p,p),B.nD,A.eO("Oi, "+$.amr+", muito obrigado por se fazer presente nesse momento da minha vida. Meu papai pediu para avisar que n\xe3o haver\xe1 bebiba alcool\xedca no local, mas quem quiser tomar seu gelinho, pode levar, incluse ele j\xe1 avisou minha mam\xe3e que vai beber. Ent\xe3o, te encontro l\xe1, valeu!",p,p,p,A.wB(B.MN),p,p),B.wY],q),B.bp,B.aW,B.b3),p,p,new A.d5(B.nm,p,r,s,p,p,B.ag),p,p,B.eu,p),p,p)],q),B.bp,B.dz,B.b3),p,p,B.h4,p,p,B.nK,p))}}
+return A.aox(A.e0(p,A.h0(A.a([A.nq(A.e0(p,A.h0(A.a([A.eO("Presen\xe7a confirmada.",p,p,p,A.wB(B.LL),p,p),B.nD,A.eO("Oi, "+$.amr+", muito obrigado por se fazer presente nesse momento da minha vida. Meu papai pediu para avisar que n\xe3o haver\xe1 bebiba alco\xf3lica no local, mas quem quiser tomar seu gelinho, pode levar, incluse ele j\xe1 avisou minha mam\xe3e que vai beber. Ent\xe3o, te encontro l\xe1, valeu!",p,p,p,A.wB(B.MN),p,p),B.wY],q),B.bp,B.aW,B.b3),p,p,new A.d5(B.nm,p,r,s,p,p,B.ag),p,p,B.eu,p),p,p)],q),B.bp,B.dz,B.b3),p,p,B.h4,p,p,B.nK,p))}}
 A.qy.prototype={
 L(a){var s=null,r=A.li(12),q=A.W4(B.iu),p=t.p
 return A.aox(A.e0(s,A.h0(A.a([A.nq(A.e0(s,A.h0(A.a([A.eO("Ocorreu um problema.",s,s,s,A.wB(B.N_),s,s),B.nD,A.eO("Cara, o n\xfamero do seu celular j\xe1 foi confirmado. T\xe1 com amn\xe9sia, doid\xe3o? kkkkkkkkk Qualquer coisa fala comigo ou com a Bruna. Tamo junto.",s,s,s,A.wB(B.Ng),s,s),B.wY],p),B.bp,B.aW,B.b3),s,s,new A.d5(B.no,s,q,r,s,s,B.ag),s,s,B.eu,s),s,s)],p),B.bp,B.dz,B.b3),s,s,B.h4,s,s,B.nK,s))}}
@@ -82151,7 +82151,7 @@ B.Ns=new A.t(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.N5=new A.t(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.Of=new A.eb(B.MP,B.NZ,B.NI,B.Lv,B.NA,B.MH,B.O2,B.LX,B.Mq,B.Nv,B.Lq,B.NK,B.Ny,B.Ns,B.N5)
 B.xk=new A.A6(1,"longestLine")
-B.Oj=new A.jn("Tudo bem com voc\xea? 08 de junho completo 2 anos de vida, gostaria que voc\xea participa-se da minha festinha para comemorar essa alegria comigo. Confirme a presen\xe7a para meus pais saberem que podem contar com a sua presen\xe7a. Valeu.",null,null,null,null,null,null,null,null)
+B.Oj=new A.jn("Tudo bem com voc\xea? 08 de junho completo 2 anos de vida, gostaria que voc\xea participasse da minha festinha para comemorar essa alegria comigo. Confirme a presen\xe7a para meus pais saberem que podem contar com a sua presen\xe7a. Valeu.",null,null,null,null,null,null,null,null)
 B.Rx=new A.Ma(0,"system")
 B.Ol=new A.A8(null)
 B.fJ=new A.A9(0,"clamp")
